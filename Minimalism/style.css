@@ -215,21 +215,44 @@ li
 
 .footer
 {   
-    
-    background-color:rgb(37, 37, 37);
+    display: flex;
+    background-color:rgb(150, 148, 148);
     height: 10em;
-    justify-content: space-between;
+    gap: 30%;
+    
     align-items: center;
+    justify-content: center;
+
 }
 
-
+.footer a
+{   
+    text-align: center;
+    display: block;
+}
 .contact
-{   margin: 53px 0% -72px 13%;
+{   
     width: 16%;
-    height: 63%;
+    height: 50%;
+}
+
+.contact1:hover
+{
+    width: 17%;
+    height: 52%;
+}
+
+.contact2:hover
+{
+    width: 17%;
+    height: 52%;
 }
     
-
+.contact3:hover
+{
+    width: 17%;
+    height: 52%;
+}
 
 
 
