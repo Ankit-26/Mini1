@@ -18,3 +18,10 @@ Software Used:
 sample user id and paswword for correct login:  
                   user id: Newton School
                   password: Newton@2698
+                  
+                  
+                  
+                  
+All the tools and software used are open source.
+
+Thank You!!
