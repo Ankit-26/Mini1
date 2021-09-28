@@ -9,6 +9,9 @@ Features:
        5.Data for login authentication is hardcoded in an object which contains two items as user id and password.
        6.login authentication is shown  by a alert displaying message according to correct user id and password.
        
+       New Features:
+       1. Users can now signup and can redirect to their own page after login.
+       
 Tech Stack:
       1. HTML5, CSS3, Javascript.
       
